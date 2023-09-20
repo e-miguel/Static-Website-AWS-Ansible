@@ -1,0 +1,4 @@
+# Create the Ansible Inventory File
+
+[all:vars]
+ansible_python_interpreter=/usr/bin/python2.7
