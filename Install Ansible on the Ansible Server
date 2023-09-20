@@ -1,0 +1,7 @@
+# Install Ansible on the Ansible Server
+
+sudo apt update
+sudo apt upgrade
+sudo apt install software-properties-common -y
+sudo apt install ansible -y
+ansible --version
